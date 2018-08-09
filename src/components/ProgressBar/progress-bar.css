@@ -1,0 +1,14 @@
+#progress-bar{
+    position : relative;
+    float : left;
+    height : 50px;
+    padding : 10px;
+    background-color: blueviolet;
+    text-align: center;
+    line-height: 50px;
+    margin: 10px;
+    color: white;
+    font-size: 2rem;
+    border-radius: 15px;
+    transition: all 0.2s linear;
+}

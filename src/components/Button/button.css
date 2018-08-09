@@ -1,0 +1,15 @@
+.button{
+    position: relative;
+    float: left;
+    padding: 10px;
+    border: none;
+    border-radius: 15px;
+    background-color: blueviolet;
+    color: white;
+    min-width: 100px;
+    cursor: pointer;
+}
+
+.button:not(:last-child){
+    margin-right: 10px;
+}
